@@ -1,3 +1,5 @@
 Sometimes I write, sometimes I teach, sometimes I code.
-Coffee is my friend.
-Tea is not.
+<<<<<<< HEAD
+Coffee is my friend
+Tea is better than coffee.
+>>>>>>> 986cc895ebe74b2fcc39b85fb4c13117f8ef93d4
